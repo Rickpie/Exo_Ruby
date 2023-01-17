@@ -15,5 +15,5 @@ i = 1
 etage = "#"
 while i < user_number
     puts (etage * i)
-    i = i+1
+    i = i+
 end
